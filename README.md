@@ -20,11 +20,6 @@ The project is dockerized.<br/>
 <img src="./doc-img/screen8.jpg" alt="log"/><br/>
 </p>
 
-### Settings Page
-<p align="center">
-<img src="./doc-img/setting.png" alt="log"/><br/>
-</p>
-
 ### Oauth2 Services
 <p align="center">
 <img src="./doc-img/service.png" alt="log"/><br/>
