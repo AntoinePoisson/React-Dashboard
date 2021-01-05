@@ -1,29 +1,43 @@
-# B-DEV-500-PAR-5-1-cardgames-gaetan.depin
+# React-Dashboard
 
-[user doc](./doc-img/user.md)
-# How to deploy
+# Purpose:
+This is a Epitech Project in React Js.<br/>
+the purpose of the application is to provide services (Twitch, Imgur, GitHub, Google) through the use of APIs.<br/>
+Each service has dedicated Widgets<br/>
+<br/>
+The Back was made in Go.<br/>
+The DataBase is mySQL.<br/>
+The project is dockerized.<br/>
+
+## Look:
+### Main Page
+<p align="center">
+<img src="./doc-img/main_page.png" alt="log"/><br/>
+</p>
+
+### Login Page
+<p align="center">
+<img src="./doc-img/screen8.jpg" alt="log"/><br/>
+</p>
+
+### Settings Page
+<p align="center">
+<img src="./doc-img/setting.png" alt="log"/><br/>
+</p>
+
+### Oauth2 Services
+<p align="center">
+<img src="./doc-img/service.png" alt="log"/><br/>
+</p>
+
+## Usage:
+- How to deploye with Docker:
 ```
 docker-compose build; docker-compose up
 ```
-# Dashboard
-A simple dashboard with simple widget
 
-![](./doc-img/main_page.png)
-## With widget setting
-![](./doc-img/setting.png)
+## Documentation:
+Go to see documentation:
+[doc](./doc-img/user.md)
 
-## Support widget form multiple service
-![](./doc-img/service.png)
 
-## Login screen
-![](./doc-img/screen8.jpg)
-
-# Requirement
-## Back
-The back is made using Go
-
-## Front
-The front is build with reactjs
-
-## Database
-Using mysql
