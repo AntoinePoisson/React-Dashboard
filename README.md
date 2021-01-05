@@ -3,7 +3,7 @@
 # Purpose:
 This is a Epitech Project in React Js.<br/>
 the purpose of the application is to provide services (Twitch, Imgur, GitHub, Google) through the use of APIs.<br/>
-Each service has dedicated Widgets<br/>
+Each service has dedicated Widgets.<br/>
 <br/>
 The Back was made in Go.<br/>
 The DataBase is mySQL.<br/>
